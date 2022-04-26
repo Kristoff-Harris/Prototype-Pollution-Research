@@ -1,3 +1,5 @@
+// https://huntr.dev/bounties/a9f33039-addf-45b1-bf92-d7e3d9b2abc1/ 
+
 /* Recursive object extending.
  *
  * |Name       |Type  |Desc              |
