@@ -1,3 +1,5 @@
+// https://huntr.dev/bounties/1-other-jalik/js-deep-extend/
+
 /*
  * The MIT License (MIT)
  * Copyright (c) 2020 Karl STEIN
